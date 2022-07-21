@@ -3,7 +3,5 @@ The notebook allows you to record a video in which people's faces smoothly chang
 This is done by a smooth transition from some initial vector to some final one in the hidden space of face embeddings. GPU is assumed.
 
 
-
-
-https://user-images.githubusercontent.com/90985847/180255049-59fbb52a-f3d6-426b-b003-44f732710e4a.mp4
+https://user-images.githubusercontent.com/90985847/180256639-f6c7f60c-a208-4126-b3e9-8d4b8e414661.mov
 
